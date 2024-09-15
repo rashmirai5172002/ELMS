@@ -66,7 +66,7 @@
                     </li>
 
 
-  <li class="no-padding"><a class="waves-effect waves-grey" href="changepassword.php"><i class="material-icons">settings_input_svideo</i>Chnage Password</a></li>
+  <!-- <li class="no-padding"><a class="waves-effect waves-grey" href="changepassword.php"><i class="material-icons">settings_input_svideo</i>Chnage Password</a></li> -->
 
                         <li class="no-padding">
                                 <a class="waves-effect waves-grey" href="logout.php"><i class="material-icons">exit_to_app</i>Log Out</a>
@@ -77,7 +77,7 @@
               
                 </ul>
                    <div class="footer">
-                    <p class="copyright"><a target="__blank" href="http://phptpoint.com/">ELMS </a>©</p>
+                    <p class="copyright"><a target="__blank"href="https://www.linkedin.com/in/rashmi-rai-341592210/">Developed By Rashmi Rai </a></p>
                 
                 </div>
                 </div>
